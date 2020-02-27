@@ -1,0 +1,36 @@
+exploratory data analysis-80%
+modeling (algorithms)
+implementation and tracking
+
+
+eda
+-data preparation(internal/external)
+treatment
+1)missing data(null)
+2)outlier 
+
+EDA
+basic analysis -statistics
+mean(avg)
+median(middle value)
+mode(repeated value)
+
+percentile(1-100)
+decile(10-100)
+quartiles(25 -50-75-100)
+
+
+
+
+
+
+mode is repeated set of values
+
+
+
+
+
+
+
+
+

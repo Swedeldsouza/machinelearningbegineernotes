@@ -1,0 +1,36 @@
+assumption of linear equations
+
+ iid-independently indentical distribution
+x and y are linearly related
+error should be normally distributed
+
+model:
+train data set    5%
+test data set /validation   4%
+out of time validation   6%
+
+scikit.org
+
+Selection criteria:
+classification and regression capabilities
+it predicts continuous variiable ,like sales made during day,predict temp,poses a real challenge to fit data set on a straight line
+change model
+
+data quality:outliers can sistrupt the model
+
+computationally complexity:
+comprehsensible and transpa
+
+
+*evaluating trends and sales estimation
+mothly sales on y ,time on x axis
+
+*analyze the impact of price changes
+sold dependent variable and price as independent variable
+
+*analyze risk  plotting claims vs customer age
+
+
+
+
+
