@@ -1,0 +1,26 @@
+Multicollinearity x and y as same age and salary (Variable)
+
+no autocorrelation( error)
+homoscedasticity
+y=beta0+betax+error
+ =beta0+beta1x1+beta2x2+betax3
+change is x1 and x2 will change beta
+
+so taking 1 variable aor 2 variable may not chnage value of y but change value of beta
+(interaction)
+one unit change in x is many unit change in y
+
+
+autocorrelation-error,time series data
+time dependent
+scoring
+random state is 0 
+ucl repository new x create
+
+
+new xaxis-interactive of variables-drop
+high t 
+importane of variables
+
+polynomial regression
+logistic regression
