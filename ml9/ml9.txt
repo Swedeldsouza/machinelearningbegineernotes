@@ -1,0 +1,42 @@
+PCA-
+DIMENSIONALITY REDUCTION
+ top two variables -Principle components
+ you can apply kernel 
+ two types of pca-2d,3d--you will apply logistic and you will get output
+ index ko column name mai kaise karna hai
+ remapping
+ 
+ 
+ variable ka order is changed
+ 
+ 
+ first find correlation then find 
+ 
+ eda=data prepartion(pipelining)
+ 
+ 
+ 
+ myhomework
+ heck correlation-
+ categorical=decision-tree(entropy)
+ numerical=
+ 
+ 
+ 
+ 
+ naive bayes
+ 
+ 
+ (posterior)P(a/b)=(p(b/a)=likelihood*p(a)=prior)/p(b)-marginal
+ 
+ based on probability it will classify
+ 
+likelihood
+prior
+posterior
+marginal
+
+
+random forest
+xgboost
+decision tree
