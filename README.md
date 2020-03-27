@@ -8,3 +8,5 @@
 2.https://pythonprogramming.net/matplotlib-intro-tutorial/
 
 3.https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
+
+4.https://www.tutorialspoint.com/matplotlib/matplotlib_introduction.htm
