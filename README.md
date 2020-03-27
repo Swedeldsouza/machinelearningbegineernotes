@@ -9,6 +9,6 @@
 
 3.https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
 
-4. matplotlib : https://www.tutorialspoint.com/matplotlib/matplotlib_introduction.htm
+4.matplotlib : https://www.tutorialspoint.com/matplotlib/matplotlib_introduction.htm
 
-5. matplotlib https://matplotlib.org/tutorials/index.html
+5.matplotlib https://matplotlib.org/tutorials/index.html
