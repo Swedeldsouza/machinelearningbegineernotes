@@ -15,3 +15,7 @@
 
 
 6.machine learning https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
+
+
+
+https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
