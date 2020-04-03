@@ -11,7 +11,7 @@
 
 4.matplotlib : https://www.tutorialspoint.com/matplotlib/matplotlib_introduction.htm
 
-5.matplotlib https://matplotlib.org/tutorials/index.html
+5.matplotlib : https://matplotlib.org/tutorials/index.html
 
 
 6.machine learning https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/
