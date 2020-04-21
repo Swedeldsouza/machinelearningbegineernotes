@@ -22,3 +22,5 @@ https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-
 
 
 Linear Regression https://realpython.com/linear-regression-in-python/
+
+ml algorithms https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
