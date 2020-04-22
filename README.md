@@ -24,3 +24,5 @@ https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-
 Linear Regression https://realpython.com/linear-regression-in-python/
 
 ml algorithms https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+
+ml algorithm chart https://medium.com/@abegc/machine-learning-algorithm-mind-map-6e5ed9570ea0
