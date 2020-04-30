@@ -26,3 +26,6 @@ Linear Regression https://realpython.com/linear-regression-in-python/
 ml algorithms https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
 ml algorithm chart https://medium.com/@abegc/machine-learning-algorithm-mind-map-6e5ed9570ea0
+
+
+ml glossary https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html
